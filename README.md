@@ -13,4 +13,4 @@
 * Inserting data into a table
 * Fetching data from a database
 
-![Database image](file_cabinet.jpg)
+![Database image](readme.md_image/file_cabinet.jpg)
